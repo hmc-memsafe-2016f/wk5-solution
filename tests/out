@@ -1,0 +1,16 @@
+master -> 'Starting Payload'
+
+> A -> 'Starting Payload'
+
+> A -> 'Payload 1'
+
+> B -> 'Starting Payload'
+
+> B -> 'Payload 2'
+
+> B -> 'Payload 3'
+
+> Removed branch B
+'Payload 3' deleted
+'Payload 2' deleted
+

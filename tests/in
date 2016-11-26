@@ -1,0 +1,8 @@
+new branch A master
+new commit 'Payload 1' A
+new branch B A~1
+new commit 'Payload 2' B
+new commit 'Payload 3' B
+delete branch B
+quit
+
